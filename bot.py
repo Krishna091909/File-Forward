@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 API_ID=26742257
-API_HASH=625a7410153e4222aa34b82b9cff2554
+API_HASH="625a7410153e4222aa34b82b9cff2554"
 BOT_TOKEN = "8140339685:AAEtkGgjxUF32-2w7BCxsktmw67_OXxQZh0"  # From @BotFather
 OWNER_ID = 7743703095  # Your Telegram user ID
 TARGET_CHANNEL = -1002414767028  # Channel ID where files should be sent
